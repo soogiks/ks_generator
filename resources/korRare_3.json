@@ -1,622 +1,622 @@
 [
     {
-        "group": "2NE1",
-        "name": "Bom"
+        "group": "IU",
+        "name": "3 Rare"
+    },
+    {
+        "group": "Rose",
+        "name": "5 Rare"
+    },
+    {
+        "group": "Twice",
+        "name": "Chaeyoung Rare"
     },
     {
         "group": "2NE1",
-        "name": "CL"
+        "name": "Minzy Rare"
     },
     {
-        "group": "2NE1",
-        "name": "Dara"
+        "group": "Stray Kids",
+        "name": "Woojin Rare"
     },
     {
-        "group": "2NE1",
-        "name": "Minzy"
+        "group": "Exo",
+        "name": "Tao Rare"
     },
     {
-        "group": "2PM",
-        "name": "Chansung"
+        "group": "Twice",
+        "name": "Jihyo Rare"
     },
     {
-        "group": "2PM",
-        "name": "Jay Park"
+        "group": "Joy",
+        "name": "4 Rare"
     },
     {
-        "group": "2PM",
-        "name": "Jun.K"
+        "group": "Got7",
+        "name": "Bambam Rare"
     },
     {
-        "group": "2PM",
-        "name": "Junho"
+        "group": "NCT Dream",
+        "name": "Jaemin Rare"
     },
     {
-        "group": "2PM",
-        "name": "Nichkhun"
-    },
-    {
-        "group": "2PM",
-        "name": "Taecyeon"
+        "group": "Taemin",
+        "name": "4 Rare"
     },
     {
         "group": "2PM",
-        "name": "Wooyoung"
+        "name": "Chansung Rare"
+    },
+    {
+        "group": "Shinee",
+        "name": "Minho Rare"
+    },
+    {
+        "group": "CIX",
+        "name": "Hyunsuk Rare"
+    },
+    {
+        "group": "Aespa",
+        "name": "Karina Rare"
+    },
+    {
+        "group": "Fromis_9",
+        "name": "Seoyeon Rare"
+    },
+    {
+        "group": "Enhypen",
+        "name": "Ni-Ki Rare"
+    },
+    {
+        "group": "Seventeen Booseoksoon",
+        "name": "Seungkwan Rare"
+    },
+    {
+        "group": "Fromis_9",
+        "name": "Jiheon Rare"
     },
     {
         "group": "ACE",
-        "name": "Byeongkwan"
+        "name": "Byeongkwan Rare"
+    },
+    {
+        "group": "Taemin",
+        "name": "2 Rare"
+    },
+    {
+        "group": "Loona",
+        "name": "Chuu Rare"
+    },
+    {
+        "group": "Fromis_9",
+        "name": "Chaeyoung Rare"
+    },
+    {
+        "group": "Aespa",
+        "name": "Giselle Rare"
+    },
+    {
+        "group": "Ateez",
+        "name": "Wooyoung Rare"
+    },
+    {
+        "group": "Enhypen",
+        "name": "Heeseung Rare"
     },
     {
         "group": "ACE",
-        "name": "Chan"
+        "name": "Jun Rare"
+    },
+    {
+        "group": "Loona",
+        "name": "Yves Rare"
+    },
+    {
+        "group": "Exo",
+        "name": "Sehun Rare"
+    },
+    {
+        "group": "Baekhyun",
+        "name": "2 Rare"
+    },
+    {
+        "group": "Loona",
+        "name": "Vivi Rare"
+    },
+    {
+        "group": "NCT Dream",
+        "name": "Haechan Rare"
     },
     {
         "group": "Ace",
-        "name": "Donghun"
+        "name": "Donghun Rare"
     },
     {
-        "group": "ACE",
-        "name": "Jun"
+        "group": "2NE1",
+        "name": "CL Rare"
     },
     {
-        "group": "ACE",
-        "name": "Wow"
+        "group": "Ateez",
+        "name": "Yunho Rare"
+    },
+    {
+        "group": "Fromis_9",
+        "name": "Jisun Rare"
+    },
+    {
+        "group": "Got7",
+        "name": "JB Rare"
+    },
+    {
+        "group": "CLC",
+        "name": "Seunghee Rare"
+    },
+    {
+        "group": "Exo",
+        "name": "Xiumin Rare"
+    },
+    {
+        "group": "Ateez",
+        "name": "Yaeosang Rare"
+    },
+    {
+        "group": "Taemin",
+        "name": "1 Rare"
+    },
+    {
+        "group": "Exo",
+        "name": "Kai Rare"
+    },
+    {
+        "group": "NCT Dream",
+        "name": "Mark Rare"
+    },
+    {
+        "group": "IU",
+        "name": "1 Rare"
+    },
+    {
+        "group": "Loona",
+        "name": "Yeojin Rare"
     },
     {
         "group": "Aespa",
-        "name": "Giselle"
+        "name": "Ningning Rare"
     },
     {
-        "group": "Aespa",
-        "name": "Karina"
+        "group": "Twice",
+        "name": "Momo Rare"
     },
     {
-        "group": "Aespa",
-        "name": "Ningning"
-    },
-    {
-        "group": "Aespa",
-        "name": "Winter"
-    },
-    {
-        "group": "Ateez",
-        "name": "Hongjoong"
-    },
-    {
-        "group": "Ateez",
-        "name": "Jongho"
-    },
-    {
-        "group": "Ateez",
-        "name": "Mingi"
-    },
-    {
-        "group": "Ateez",
-        "name": "San"
-    },
-    {
-        "group": "Ateez",
-        "name": "Seonghwa"
-    },
-    {
-        "group": "Ateez",
-        "name": "Wooyoung"
-    },
-    {
-        "group": "Ateez",
-        "name": "Yeosang"
-    },
-    {
-        "group": "Ateez",
-        "name": "Yunho"
-    },
-    {
-        "group": "Baekhyun",
-        "name": "1"
-    },
-    {
-        "group": "Baekhyun",
-        "name": "2"
-    },
-    {
-        "group": "Baekhyun",
-        "name": "3"
-    },
-    {
-        "group": "Baekhyun",
-        "name": "4"
-    },
-    {
-        "group": "Baekhyun",
-        "name": "5"
+        "group": "Rose",
+        "name": "2 Rare"
     },
     {
         "group": "CIX",
-        "name": "Bae Jinyoung"
+        "name": "Bae Jinyoung Rare"
     },
     {
-        "group": "CIX",
-        "name": "BX"
-    },
-    {
-        "group": "CIX",
-        "name": "Hyunsuk"
-    },
-    {
-        "group": "CIX",
-        "name": "Seunghun"
-    },
-    {
-        "group": "CIX",
-        "name": "Yonghee"
-    },
-    {
-        "group": "CLC",
-        "name": "Elkie"
-    },
-    {
-        "group": "CLC",
-        "name": "Eunbin"
-    },
-    {
-        "group": "CLC",
-        "name": "Seunghee"
-    },
-    {
-        "group": "CLC",
-        "name": "Seungyeon"
-    },
-    {
-        "group": "CLC",
-        "name": "Sorn"
-    },
-    {
-        "group": "CLC",
-        "name": "Yeeun"
-    },
-    {
-        "group": "CLC",
-        "name": "Yujin"
-    },
-    {
-        "group": "Enhypen",
-        "name": "Heeseung"
-    },
-    {
-        "group": "Enhypen",
-        "name": "Jake"
-    },
-    {
-        "group": "Enhypen",
-        "name": "Jay"
-    },
-    {
-        "group": "Enhypen",
-        "name": "Jungwon"
-    },
-    {
-        "group": "Enhypen",
-        "name": "Ni-Ki"
-    },
-    {
-        "group": "Enhypen",
-        "name": "Sunghoon"
-    },
-    {
-        "group": "Enhypen",
-        "name": "Sunoo"
-    },
-    {
-        "group": "Exo",
-        "name": "Baekhyun"
-    },
-    {
-        "group": "Exo",
-        "name": "Chanyeol"
-    },
-    {
-        "group": "Exo",
-        "name": "Chen"
-    },
-    {
-        "group": "Exo",
-        "name": "DO"
-    },
-    {
-        "group": "Exo",
-        "name": "Kai"
-    },
-    {
-        "group": "Exo",
-        "name": "Lay"
-    },
-    {
-        "group": "Exo",
-        "name": "Luhan"
-    },
-    {
-        "group": "Exo",
-        "name": "Sehun"
-    },
-    {
-        "group": "Exo",
-        "name": "Suho"
-    },
-    {
-        "group": "Exo",
-        "name": "Tao"
-    },
-    {
-        "group": "Exo",
-        "name": "Xiumin"
+        "group": "NCT Dream",
+        "name": "Chenle Rare"
     },
     {
         "group": "Fromis_9",
-        "name": "Chaeyoung"
+        "name": "Jiwon Rare"
     },
     {
-        "group": "Fromis_9",
-        "name": "Gyuri"
+        "group": "Twice",
+        "name": "Nayeon Rare"
     },
     {
-        "group": "Fromis_9",
-        "name": "Hayoung"
-    },
-    {
-        "group": "Fromis_9",
-        "name": "Jiheon"
-    },
-    {
-        "group": "Fromis_9",
-        "name": "Jisun"
-    },
-    {
-        "group": "Fromis_9",
-        "name": "Jiwon"
-    },
-    {
-        "group": "Fromis_9",
-        "name": "Nagyung"
-    },
-    {
-        "group": "Fromis_9",
-        "name": "Saerom"
-    },
-    {
-        "group": "Fromis_9",
-        "name": "Seoyeon"
+        "group": "Twice",
+        "name": "Mina Rare"
     },
     {
         "group": "GIdle",
-        "name": "Minnie"
+        "name": "Shuhua Rare"
+    },
+    {
+        "group": "Fromis_9",
+        "name": "Hayoung Rare"
+    },
+    {
+        "group": "NCT Dream",
+        "name": "Jisung Rare"
+    },
+    {
+        "group": "Baekhyun",
+        "name": "5 Rare"
+    },
+    {
+        "group": "ACE",
+        "name": "Chan Rare"
+    },
+    {
+        "group": "Ateez",
+        "name": "Jongho Rare"
+    },
+    {
+        "group": "Stray Kids",
+        "name": "Lee Know Rare"
+    },
+    {
+        "group": "Loona",
+        "name": "Cheorry Rare"
+    },
+    {
+        "group": "Exo",
+        "name": "Baekhyun Rare"
+    },
+    {
+        "group": "Loona",
+        "name": "Kim Lip Rare"
+    },
+    {
+        "group": "CLC",
+        "name": "Sorn Rare"
+    },
+    {
+        "group": "Enhypen",
+        "name": "Jungwon Rare"
+    },
+    {
+        "group": "Nu'est",
+        "name": "Baekho Rare"
+    },
+    {
+        "group": "Taemin",
+        "name": "5 Rare"
+    },
+    {
+        "group": "CLC",
+        "name": "Seungyeon Rare"
+    },
+    {
+        "group": "Got7",
+        "name": "Youngjae Rare"
+    },
+    {
+        "group": "Shinee",
+        "name": "Key Rare"
+    },
+    {
+        "group": "Loona",
+        "name": "Haseul Rare"
+    },
+    {
+        "group": "Got7",
+        "name": "Yugyeom Rare"
+    },
+    {
+        "group": "Stray Kids",
+        "name": "Bang Chan Rare"
+    },
+    {
+        "group": "CLC",
+        "name": "Yeeun Rare"
+    },
+    {
+        "group": "GIdle",
+        "name": "Soojin Rare"
+    },
+    {
+        "group": "Baekhyun",
+        "name": "4 Rare"
+    },
+    {
+        "group": "Shinee",
+        "name": "Taemin Rare"
+    },
+    {
+        "group": "IU",
+        "name": "2 Rare"
+    },
+    {
+        "group": "Exo",
+        "name": "DO Rare"
+    },
+    {
+        "group": "Enhypen",
+        "name": "Sunghoon Rare"
+    },
+    {
+        "group": "Exo",
+        "name": "Suho Rare"
+    },
+    {
+        "group": "Taemin",
+        "name": "3 Rare"
+    },
+    {
+        "group": "Shinee",
+        "name": "Jonghyun Rare"
+    },
+    {
+        "group": "Loona",
+        "name": "Heejin Rare"
+    },
+    {
+        "group": "IU",
+        "name": "5 Rare"
+    },
+    {
+        "group": "Ateez",
+        "name": "Hongjoong Rare"
+    },
+    {
+        "group": "CLC",
+        "name": "Eunbin Rare"
+    },
+    {
+        "group": "Enhypen",
+        "name": "Jake Rare"
+    },
+    {
+        "group": "Enhypen",
+        "name": "Jay Rare"
+    },
+    {
+        "group": "Ateez",
+        "name": "San Rare"
+    },
+    {
+        "group": "2NE1",
+        "name": "Bom Rare"
+    },
+    {
+        "group": "GIdle",
+        "name": "Yuqi Rare"
+    },
+    {
+        "group": "Exo",
+        "name": "Chanyeol Rare"
+    },
+    {
+        "group": "GIdle",
+        "name": "Minnie Rare"
+    },
+    {
+        "group": "Nu'est",
+        "name": "JR Rare"
+    },
+    {
+        "group": "Loona",
+        "name": "Jinsoul Rare"
+    },
+    {
+        "group": "Loona",
+        "name": "Gowon Rare"
+    },
+    {
+        "group": "Stray Kids",
+        "name": "Hyunjin Rare"
+    },
+    {
+        "group": "Twice",
+        "name": "Dahyun Rare"
+    },
+    {
+        "group": "NCT Dream",
+        "name": "Renjun Rare"
+    },
+    {
+        "group": "Joy",
+        "name": "5 Rare"
+    },
+    {
+        "group": "Nu'est",
+        "name": "Aron Rare"
+    },
+    {
+        "group": "CLC",
+        "name": "Yujin Rare"
+    },
+    {
+        "group": "Rose",
+        "name": "3 Rare"
+    },
+    {
+        "group": "Ateez",
+        "name": "Mingi Rare"
+    },
+    {
+        "group": "Stray Kids",
+        "name": "Changbin Rare"
+    },
+    {
+        "group": "2NE1",
+        "name": "Dara Rare"
+    },
+    {
+        "group": "2PM",
+        "name": "Nichkhun Rare"
+    },
+    {
+        "group": "2PM",
+        "name": "Junho Rare"
+    },
+    {
+        "group": "Baekhyun",
+        "name": "3 Rare"
+    },
+    {
+        "group": "Stray Kids",
+        "name": "Felix Rare"
+    },
+    {
+        "group": "GIdle",
+        "name": "Soyeon Rare"
+    },
+    {
+        "group": "ACE",
+        "name": "Wow Rare"
+    },
+    {
+        "group": "Shinee",
+        "name": "Onew Rare"
+    },
+    {
+        "group": "Nu'est",
+        "name": "Minhyun Rare"
+    },
+    {
+        "group": "Exo",
+        "name": "Luhan Rare"
+    },
+    {
+        "group": "2PM",
+        "name": "Taecyeon Rare"
+    },
+    {
+        "group": "2PM",
+        "name": "Jay Park Rare"
+    },
+    {
+        "group": "Joy",
+        "name": "2 Rare"
+    },
+    {
+        "group": "Enhypen",
+        "name": "Sunoo Rare"
+    },
+    {
+        "group": "Exo",
+        "name": "Chen Rare"
+    },
+    {
+        "group": "Loona",
+        "name": "Olivia Hye Rare"
+    },
+    {
+        "group": "Seventeen Booseoksoon",
+        "name": "Hoshi Rare"
     },
     {
         "group": "Gidle",
-        "name": "Miyeon"
+        "name": "Miyeon Rare"
     },
     {
-        "group": "GIdle",
-        "name": "Shuhua"
+        "group": "Stray Kids",
+        "name": "Seungmin Rare"
     },
     {
-        "group": "GIdle",
-        "name": "Soojin"
+        "group": "Fromis_9",
+        "name": "Gyuri Rare"
     },
     {
-        "group": "GIdle",
-        "name": "Soyeon"
+        "group": "2PM",
+        "name": "Wooyoung Rare"
     },
     {
-        "group": "GIdle",
-        "name": "Yuqi"
+        "group": "CIX",
+        "name": "BX Rare"
     },
     {
-        "group": "Got7",
-        "name": "Bambam"
+        "group": "Stray Kids",
+        "name": "IN Rare"
     },
     {
-        "group": "Got7",
-        "name": "Jackson"
-    },
-    {
-        "group": "Got7",
-        "name": "JB"
+        "group": "Fromis_9",
+        "name": "Saerom Rare"
     },
     {
         "group": "Got7",
-        "name": "Jinyoung"
+        "name": "Jackson Rare"
     },
     {
-        "group": "Got7",
-        "name": "Mark"
-    },
-    {
-        "group": "Got7",
-        "name": "Youngjae"
-    },
-    {
-        "group": "Got7",
-        "name": "Yugyeom"
-    },
-    {
-        "group": "IU",
-        "name": "1"
-    },
-    {
-        "group": "IU",
-        "name": "2"
-    },
-    {
-        "group": "IU",
-        "name": "3"
-    },
-    {
-        "group": "IU",
-        "name": "4"
-    },
-    {
-        "group": "IU",
-        "name": "5"
-    },
-    {
-        "group": "Joy",
-        "name": "1"
-    },
-    {
-        "group": "Joy",
-        "name": "2"
-    },
-    {
-        "group": "Joy",
-        "name": "3"
-    },
-    {
-        "group": "Joy",
-        "name": "4"
-    },
-    {
-        "group": "Joy",
-        "name": "5"
-    },
-    {
-        "group": "Loona",
-        "name": "Cheorry"
-    },
-    {
-        "group": "Loona",
-        "name": "Chuu"
-    },
-    {
-        "group": "Loona",
-        "name": "Gowon"
-    },
-    {
-        "group": "Loona",
-        "name": "Haseul"
-    },
-    {
-        "group": "Loona",
-        "name": "Heejin"
-    },
-    {
-        "group": "Loona",
-        "name": "Hyunjin"
-    },
-    {
-        "group": "Loona",
-        "name": "Jinsoul"
-    },
-    {
-        "group": "Loona",
-        "name": "Kim Lip"
-    },
-    {
-        "group": "Loona",
-        "name": "Olivia Hye"
-    },
-    {
-        "group": "Loona",
-        "name": "Vivi"
-    },
-    {
-        "group": "Loona",
-        "name": "Yeojin"
-    },
-    {
-        "group": "Loona",
-        "name": "Yves"
-    },
-    {
-        "group": "NCT Dream",
-        "name": "Chenle"
-    },
-    {
-        "group": "NCT Dream",
-        "name": "Haechan"
-    },
-    {
-        "group": "NCT Dream",
-        "name": "Jaemin"
-    },
-    {
-        "group": "NCT Dream",
-        "name": "Jeno"
-    },
-    {
-        "group": "NCT Dream",
-        "name": "Jisung"
-    },
-    {
-        "group": "NCT Dream",
-        "name": "Mark"
-    },
-    {
-        "group": "NCT Dream",
-        "name": "Renjun"
-    },
-    {
-        "group": "Nu'est",
-        "name": "Aron"
-    },
-    {
-        "group": "Nu'est",
-        "name": "Baekho"
-    },
-    {
-        "group": "Nu'est",
-        "name": "JR"
-    },
-    {
-        "group": "Nu'est",
-        "name": "Minhyun"
-    },
-    {
-        "group": "Nu'est",
-        "name": "Ren"
+        "group": "CLC",
+        "name": "Elkie Rare"
     },
     {
         "group": "Rose",
-        "name": "1"
+        "name": "4 Rare"
     },
     {
-        "group": "Rose",
-        "name": "2"
+        "group": "Baekhyun",
+        "name": "1 Rare"
     },
     {
-        "group": "Rose",
-        "name": "3"
+        "group": "Joy",
+        "name": "1 Rare"
     },
     {
-        "group": "Rose",
-        "name": "4"
+        "group": "IU",
+        "name": "4 Rare"
     },
     {
-        "group": "Rose",
-        "name": "5"
+        "group": "Nu'est",
+        "name": "Ren Rare"
+    },
+    {
+        "group": "Exo",
+        "name": "Lay Rare"
     },
     {
         "group": "Seventeen Booseoksoon",
-        "name": "DK"
-    },
-    {
-        "group": "Seventeen Booseoksoon",
-        "name": "Hoshi"
-    },
-    {
-        "group": "Seventeen Booseoksoon",
-        "name": "Seungkwan"
-    },
-    {
-        "group": "Shinee",
-        "name": "Jonghyun"
-    },
-    {
-        "group": "Shinee",
-        "name": "Key"
-    },
-    {
-        "group": "Shinee",
-        "name": "Minho"
-    },
-    {
-        "group": "Shinee",
-        "name": "Onew"
-    },
-    {
-        "group": "Shinee",
-        "name": "Taemin"
+        "name": "DK Rare"
     },
     {
         "group": "Stray Kids",
-        "name": "Bang Chan"
+        "name": "Han Rare"
     },
     {
-        "group": "Stray Kids",
-        "name": "Changbin"
+        "group": "Rose",
+        "name": "1 Rare"
     },
     {
-        "group": "Stray Kids",
-        "name": "Felix"
+        "group": "Aespa",
+        "name": "Winter Rare"
     },
     {
-        "group": "Stray Kids",
-        "name": "Han"
-    },
-    {
-        "group": "Stray Kids",
-        "name": "Hyunjin"
-    },
-    {
-        "group": "Stray Kids",
-        "name": "IN"
-    },
-    {
-        "group": "Stray Kids",
-        "name": "Lee Know"
-    },
-    {
-        "group": "Stray Kids",
-        "name": "Seungmin"
-    },
-    {
-        "group": "Stray Kids",
-        "name": "Woojin"
-    },
-    {
-        "group": "Taemin",
-        "name": "1"
-    },
-    {
-        "group": "Taemin",
-        "name": "2"
-    },
-    {
-        "group": "Taemin",
-        "name": "3"
-    },
-    {
-        "group": "Taemin",
-        "name": "4"
-    },
-    {
-        "group": "Taemin",
-        "name": "5"
+        "group": "Ateez",
+        "name": "Seonghwa Rare"
     },
     {
         "group": "Twice",
-        "name": "Chaeyoung"
+        "name": "Sana Rare"
+    },
+    {
+        "group": "Got7",
+        "name": "Mark Rare"
+    },
+    {
+        "group": "Loona",
+        "name": "Hyunjin Rare"
+    },
+    {
+        "group": "Fromis_9",
+        "name": "Nagyung Rare"
+    },
+    {
+        "group": "NCT Dream",
+        "name": "Jeno Rare"
+    },
+    {
+        "group": "CIX",
+        "name": "Seunghun Rare"
+    },
+    {
+        "group": "2PM",
+        "name": "Jun.K Rare"
+    },
+    {
+        "group": "CIX",
+        "name": "Yonghee Rare"
     },
     {
         "group": "Twice",
-        "name": "Dahyun"
+        "name": "Tzuyu Rare"
+    },
+    {
+        "group": "Joy",
+        "name": "3 Rare"
     },
     {
         "group": "Twice",
-        "name": "Jeongyeon"
+        "name": "Jeongyeon Rare"
     },
     {
-        "group": "Twice",
-        "name": "Jihyo"
-    },
-    {
-        "group": "Twice",
-        "name": "Mina"
-    },
-    {
-        "group": "Twice",
-        "name": "Momo"
-    },
-    {
-        "group": "Twice",
-        "name": "Nayeon"
-    },
-    {
-        "group": "Twice",
-        "name": "Sana"
-    },
-    {
-        "group": "Twice",
-        "name": "Tzuyu"
+        "group": "Got7",
+        "name": "Jinyoung Rare"
     }
 ]

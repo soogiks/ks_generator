@@ -51,7 +51,8 @@ async function fetchData(button) {
 }
 
 function printCards(cards) {
-    let randomCard = Math.floor((Math.random() * cards.length) + 1);
+    let randomCard = Math.floor((Math.random() * cards.length));
     console.log(`${cards[randomCard].group} ${cards[randomCard].name}`);
+    console.log(randomCard);
     cardOutput.innerText = `${cards[randomCard].group} ${cards[randomCard].name}`;
 }

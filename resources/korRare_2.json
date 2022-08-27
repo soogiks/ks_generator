@@ -1,626 +1,626 @@
 [
     {
-        "group": "AB6IX",
-        "name": "Daehwi"
+        "group": "Everglow",
+        "name": "E:U Rare"
     },
     {
-        "group": "AB6IX",
-        "name": "Donghyun"
+        "group": "Apink",
+        "name": "Chorong Rare"
     },
     {
-        "group": "AB6IX",
-        "name": "Woojin"
+        "group": "SF9",
+        "name": "Jaeyoon Rare"
     },
     {
-        "group": "AB6IX",
-        "name": "Woong"
+        "group": "SF9",
+        "name": "Taeyang Rare"
     },
     {
-        "group": "AB6IX",
-        "name": "Youngmin"
+        "group": "Jennie",
+        "name": "4 Rare"
+    },
+    {
+        "group": "Yongguk",
+        "name": "4 Rare"
+    },
+    {
+        "group": "Victon",
+        "name": "Byungchan Rare"
+    },
+    {
+        "group": "Yongguk",
+        "name": "5 Rare"
+    },
+    {
+        "group": "TXT",
+        "name": "Taehyun Rare"
+    },
+    {
+        "group": "Vixx",
+        "name": "N Rare"
+    },
+    {
+        "group": "Weekly",
+        "name": "Jaehee Rare"
+    },
+    {
+        "group": "Treasure",
+        "name": "Yedam Rare"
+    },
+    {
+        "group": "NCT",
+        "name": "Winwin Rare"
+    },
+    {
+        "group": "NCT",
+        "name": "Jungwoo Rare"
+    },
+    {
+        "group": "Taeyeon",
+        "name": "5 Rare"
+    },
+    {
+        "group": "Gfriend",
+        "name": "Yerin Rare"
+    },
+    {
+        "group": "TVXQ",
+        "name": "Junsu Rare"
+    },
+    {
+        "group": "Victon",
+        "name": "Seungsik Rare"
+    },
+    {
+        "group": "NCT",
+        "name": "Jisung Rare"
+    },
+    {
+        "group": "Exid",
+        "name": "Hani Rare"
+    },
+    {
+        "group": "Everglow",
+        "name": "Sihyeon Rare"
+    },
+    {
+        "group": "Weekly",
+        "name": "Jihan Rare"
+    },
+    {
+        "group": "Oneus",
+        "name": "Hwanwong Rare"
+    },
+    {
+        "group": "Oneus",
+        "name": "Ravn Rare"
+    },
+    {
+        "group": "TVXQ",
+        "name": "Yunho Rare"
+    },
+    {
+        "group": "NCT",
+        "name": "Renjun Rare"
+    },
+    {
+        "group": "Apink",
+        "name": "Naeun Rare"
+    },
+    {
+        "group": "BTS",
+        "name": "Jungkook Rare"
+    },
+    {
+        "group": "Weekly",
+        "name": "Soojin Rare"
+    },
+    {
+        "group": "Taeyeon",
+        "name": "4 Rare"
+    },
+    {
+        "group": "Treasure",
+        "name": "Jeongwoo Rare"
+    },
+    {
+        "group": "Apink",
+        "name": "Bomi Rare"
+    },
+    {
+        "group": "Vixx",
+        "name": "Hongbin Rare"
+    },
+    {
+        "group": "Apink",
+        "name": "Hayoung Rare"
+    },
+    {
+        "group": "NCT",
+        "name": "Yangyang Rare"
+    },
+    {
+        "group": "NCT",
+        "name": "Taeyong Rare"
+    },
+    {
+        "group": "Apink",
+        "name": "Eunji Rare"
+    },
+    {
+        "group": "BTS",
+        "name": "Suga Rare"
+    },
+    {
+        "group": "Gfriend",
+        "name": "Yuju Rare"
+    },
+    {
+        "group": "BTS",
+        "name": "J-hope Rare"
+    },
+    {
+        "group": "Red Velvet",
+        "name": "Wendy Rare"
+    },
+    {
+        "group": "SF9",
+        "name": "Rowoon Rare"
     },
     {
         "group": "Akmu",
-        "name": "Chanhyuk"
+        "name": "Chanhyuk Rare"
+    },
+    {
+        "group": "Oneus",
+        "name": "Leedo Rare"
+    },
+    {
+        "group": "Weekly",
+        "name": "Zoa Rare"
+    },
+    {
+        "group": "AB6IX",
+        "name": "Woojin Rare"
+    },
+    {
+        "group": "Apink",
+        "name": "Namjoo Rare"
+    },
+    {
+        "group": "Vixx",
+        "name": "Ravi Rare"
+    },
+    {
+        "group": "Weekly",
+        "name": "Soeun Rare"
+    },
+    {
+        "group": "AB6IX",
+        "name": "Youngmin Rare"
+    },
+    {
+        "group": "Yongguk",
+        "name": "2 Rare"
+    },
+    {
+        "group": "Red Velvet",
+        "name": "Yeri Rare"
+    },
+    {
+        "group": "AleXa",
+        "name": "5 Rare"
+    },
+    {
+        "group": "Day6",
+        "name": "Jae Rare"
+    },
+    {
+        "group": "Yongguk",
+        "name": "1 Rare"
+    },
+    {
+        "group": "Red Velvet",
+        "name": "Joy Rare"
+    },
+    {
+        "group": "AB6IX",
+        "name": "Donghyun Rare"
+    },
+    {
+        "group": "Hwasa",
+        "name": "1 Rare"
+    },
+    {
+        "group": "Taeyeon",
+        "name": "2 Rare"
+    },
+    {
+        "group": "NCT",
+        "name": "Sungchan Rare"
+    },
+    {
+        "group": "TVXQ",
+        "name": "Changmin Rare"
+    },
+    {
+        "group": "Exid",
+        "name": "Junghwa Rare"
+    },
+    {
+        "group": "Gfriend",
+        "name": "Sowon Rare"
+    },
+    {
+        "group": "NCT",
+        "name": "Jeno Rare"
+    },
+    {
+        "group": "Day6",
+        "name": "Dowoon Rare"
+    },
+    {
+        "group": "Victon",
+        "name": "Seungwoo Rare"
+    },
+    {
+        "group": "NCT",
+        "name": "Yuta Rare"
+    },
+    {
+        "group": "TVXQ",
+        "name": "Jaejoong Rare"
+    },
+    {
+        "group": "NCT",
+        "name": "Haechan Rare"
+    },
+    {
+        "group": "Kard",
+        "name": "J.Steph Rare"
+    },
+    {
+        "group": "Hwasa",
+        "name": "4 Rare"
+    },
+    {
+        "group": "Oneus",
+        "name": "Xion Rare"
+    },
+    {
+        "group": "Oneus",
+        "name": "Keonhee Rare"
+    },
+    {
+        "group": "NCT",
+        "name": "Jaemin Rare"
+    },
+    {
+        "group": "Jennie",
+        "name": "3 Rare"
+    },
+    {
+        "group": "TXT",
+        "name": "Huening Kai Rare"
+    },
+    {
+        "group": "SF9",
+        "name": "Dawon Rare"
+    },
+    {
+        "group": "Everglow",
+        "name": "Mia Rare"
+    },
+    {
+        "group": "Day6",
+        "name": "Wonpil Rare"
+    },
+    {
+        "group": "Treasure",
+        "name": "Hyunsuk Rare"
+    },
+    {
+        "group": "AB6IX",
+        "name": "Woong Rare"
+    },
+    {
+        "group": "BTS",
+        "name": "RM Rare"
+    },
+    {
+        "group": "Exid",
+        "name": "Hyerin Rare"
+    },
+    {
+        "group": "Treasure",
+        "name": "Mashiho Rare"
+    },
+    {
+        "group": "Treasure",
+        "name": "Junkyu Rare"
+    },
+    {
+        "group": "Gfriend",
+        "name": "Umji Rare"
+    },
+    {
+        "group": "Jennie",
+        "name": "2 Rare"
+    },
+    {
+        "group": "Weekly",
+        "name": "Monday Rare"
+    },
+    {
+        "group": "AleXa",
+        "name": "2 Rare"
+    },
+    {
+        "group": "SF9",
+        "name": "Chani Rare"
+    },
+    {
+        "group": "NCT",
+        "name": "Kun Rare"
+    },
+    {
+        "group": "TXT",
+        "name": "Soobin Rare"
+    },
+    {
+        "group": "Treasure",
+        "name": "Haruto Rare"
+    },
+    {
+        "group": "Vixx",
+        "name": "Ken Rare"
+    },
+    {
+        "group": "Gfriend",
+        "name": "SinB Rare"
+    },
+    {
+        "group": "Everglow",
+        "name": "Onda Rare"
+    },
+    {
+        "group": "AleXa",
+        "name": "4 Rare"
+    },
+    {
+        "group": "Red Velvet",
+        "name": "Seulgi Rare"
+    },
+    {
+        "group": "NCT",
+        "name": "Shotaro Rare"
+    },
+    {
+        "group": "Exid",
+        "name": "Solji Rare"
+    },
+    {
+        "group": "AB6IX",
+        "name": "Daehwi Rare"
+    },
+    {
+        "group": "SF9",
+        "name": "Inseong Rare"
+    },
+    {
+        "group": "AleXa",
+        "name": "1 Rare"
+    },
+    {
+        "group": "Taeyeon",
+        "name": "3 Rare"
+    },
+    {
+        "group": "NCT",
+        "name": "Hendery Rare"
+    },
+    {
+        "group": "Apink",
+        "name": "Yookyung Rare"
+    },
+    {
+        "group": "SF9",
+        "name": "Hwiyoung Rare"
     },
     {
         "group": "Akmu",
-        "name": "Suhyun"
+        "name": "Suhyun Rare"
     },
     {
-        "group": "AleXa",
-        "name": "1"
+        "group": "TXT",
+        "name": "Yeonjun Rare"
     },
     {
-        "group": "AleXa",
-        "name": "2"
-    },
-    {
-        "group": "AleXa",
-        "name": "3"
-    },
-    {
-        "group": "AleXa",
-        "name": "4"
-    },
-    {
-        "group": "AleXa",
-        "name": "5"
-    },
-    {
-        "group": "Apink",
-        "name": "Bomi"
-    },
-    {
-        "group": "Apink",
-        "name": "Chorong"
-    },
-    {
-        "group": "Apink",
-        "name": "Eunji"
-    },
-    {
-        "group": "Apink",
-        "name": "Hayoung"
-    },
-    {
-        "group": "Apink",
-        "name": "Naeun"
-    },
-    {
-        "group": "Apink",
-        "name": "Namjoo"
-    },
-    {
-        "group": "Apink",
-        "name": "Yookyung"
+        "group": "Treasure",
+        "name": "Jaehyuk Rare"
     },
     {
         "group": "BTS",
-        "name": "J-hope"
+        "name": "V Rare"
+    },
+    {
+        "group": "Red Velvet",
+        "name": "Irene Rare"
     },
     {
         "group": "BTS",
-        "name": "Jimin"
-    },
-    {
-        "group": "BTS",
-        "name": "Jin"
-    },
-    {
-        "group": "BTS",
-        "name": "Jungkook"
-    },
-    {
-        "group": "BTS",
-        "name": "RM"
-    },
-    {
-        "group": "BTS",
-        "name": "Suga"
-    },
-    {
-        "group": "BTS",
-        "name": "V"
-    },
-    {
-        "group": "Day6",
-        "name": "Dowoon"
-    },
-    {
-        "group": "Day6",
-        "name": "Jae"
-    },
-    {
-        "group": "Day6",
-        "name": "Junhyeok"
-    },
-    {
-        "group": "Day6",
-        "name": "Sungjin"
-    },
-    {
-        "group": "Day6",
-        "name": "Wonpil"
-    },
-    {
-        "group": "Day6",
-        "name": "YoungK"
-    },
-    {
-        "group": "Everglow",
-        "name": "Aisha"
-    },
-    {
-        "group": "Everglow",
-        "name": "E:U"
-    },
-    {
-        "group": "Everglow",
-        "name": "Mia"
-    },
-    {
-        "group": "Everglow",
-        "name": "Onda"
-    },
-    {
-        "group": "Everglow",
-        "name": "Sihyeon"
-    },
-    {
-        "group": "Everglow",
-        "name": "Yiren"
-    },
-    {
-        "group": "Exid",
-        "name": "Hani"
-    },
-    {
-        "group": "Exid",
-        "name": "Hyerin"
-    },
-    {
-        "group": "Exid",
-        "name": "Junghwa"
-    },
-    {
-        "group": "Exid",
-        "name": "LE"
-    },
-    {
-        "group": "Exid",
-        "name": "Solji"
-    },
-    {
-        "group": "Gfriend",
-        "name": "Eunha"
-    },
-    {
-        "group": "Gfriend",
-        "name": "SinB"
-    },
-    {
-        "group": "Gfriend",
-        "name": "Sowon"
-    },
-    {
-        "group": "Gfriend",
-        "name": "Umji"
-    },
-    {
-        "group": "Gfriend",
-        "name": "Yerin"
-    },
-    {
-        "group": "Gfriend",
-        "name": "Yuju"
+        "name": "Jimin Rare"
     },
     {
         "group": "Hwasa",
-        "name": "1"
-    },
-    {
-        "group": "Hwasa",
-        "name": "2"
-    },
-    {
-        "group": "Hwasa",
-        "name": "3"
-    },
-    {
-        "group": "Hwasa",
-        "name": "4"
-    },
-    {
-        "group": "Hwasa",
-        "name": "5"
+        "name": "2 Rare"
     },
     {
         "group": "Jennie",
-        "name": "1"
+        "name": "5 Rare"
+    },
+    {
+        "group": "TXT",
+        "name": "Beomgyu Rare"
+    },
+    {
+        "group": "Treasure",
+        "name": "Jihoon Rare"
     },
     {
         "group": "Jennie",
-        "name": "2"
+        "name": "1 Rare"
     },
     {
-        "group": "Jennie",
-        "name": "3"
+        "group": "NCT",
+        "name": "Mark Rare"
     },
     {
-        "group": "Jennie",
-        "name": "4"
+        "group": "Day6",
+        "name": "Sungjin Rare"
     },
     {
-        "group": "Jennie",
-        "name": "5"
+        "group": "Everglow",
+        "name": "Aisha Rare"
+    },
+    {
+        "group": "Treasure",
+        "name": "Junghwan Rare"
     },
     {
         "group": "Kard",
-        "name": "BM"
+        "name": "Somin Rare"
+    },
+    {
+        "group": "Treasure",
+        "name": "Asahi Rare"
+    },
+    {
+        "group": "Exid",
+        "name": "LE Rare"
+    },
+    {
+        "group": "NCT",
+        "name": "Chenle Rare"
     },
     {
         "group": "Kard",
-        "name": "J.Steph"
+        "name": "BM Rare"
+    },
+    {
+        "group": "Taeyeon",
+        "name": "1 Rare"
+    },
+    {
+        "group": "Weekly",
+        "name": "Jiyoon Rare"
+    },
+    {
+        "group": "NCT",
+        "name": "Johnny Rare"
+    },
+    {
+        "group": "Vixx",
+        "name": "Leo Rare"
+    },
+    {
+        "group": "NCT",
+        "name": "Jaehyun Rare"
+    },
+    {
+        "group": "NCT",
+        "name": "Doyoung Rare"
+    },
+    {
+        "group": "Hwasa",
+        "name": "5 Rare"
+    },
+    {
+        "group": "Oneus",
+        "name": "Seheo Rare"
+    },
+    {
+        "group": "Treasure",
+        "name": "Yoshi Rare"
+    },
+    {
+        "group": "Yongguk",
+        "name": "3 Rare"
+    },
+    {
+        "group": "BTS",
+        "name": "Jin Rare"
+    },
+    {
+        "group": "AleXa",
+        "name": "3 Rare"
     },
     {
         "group": "Kard",
-        "name": "Jiwoo"
-    },
-    {
-        "group": "Kard",
-        "name": "Somin"
-    },
-    {
-        "group": "NCT",
-        "name": "Chenle"
-    },
-    {
-        "group": "NCT",
-        "name": "Doyoung"
-    },
-    {
-        "group": "NCT",
-        "name": "Haechan"
-    },
-    {
-        "group": "NCT",
-        "name": "Hendery"
-    },
-    {
-        "group": "NCT",
-        "name": "Jaehyun"
-    },
-    {
-        "group": "NCT",
-        "name": "Jaemin"
-    },
-    {
-        "group": "NCT",
-        "name": "Jeno"
-    },
-    {
-        "group": "NCT",
-        "name": "Jisung"
-    },
-    {
-        "group": "NCT",
-        "name": "Johnny"
-    },
-    {
-        "group": "NCT",
-        "name": "Jungwoo"
-    },
-    {
-        "group": "NCT",
-        "name": "Kun"
-    },
-    {
-        "group": "NCT",
-        "name": "Mark"
-    },
-    {
-        "group": "NCT",
-        "name": "Renjun"
-    },
-    {
-        "group": "NCT",
-        "name": "Shotaro"
-    },
-    {
-        "group": "NCT",
-        "name": "Sungchan"
-    },
-    {
-        "group": "NCT",
-        "name": "Taeil"
-    },
-    {
-        "group": "NCT",
-        "name": "Taeyong"
-    },
-    {
-        "group": "NCT",
-        "name": "Ten"
-    },
-    {
-        "group": "NCT",
-        "name": "Winwin"
-    },
-    {
-        "group": "NCT",
-        "name": "Xiaojun"
-    },
-    {
-        "group": "NCT",
-        "name": "Yangyang"
-    },
-    {
-        "group": "NCT",
-        "name": "Yuta"
-    },
-    {
-        "group": "Oneus",
-        "name": "Hwanwong"
-    },
-    {
-        "group": "Oneus",
-        "name": "Keonhee"
-    },
-    {
-        "group": "Oneus",
-        "name": "Leedo"
-    },
-    {
-        "group": "Oneus",
-        "name": "Ravn"
-    },
-    {
-        "group": "Oneus",
-        "name": "Seheo"
-    },
-    {
-        "group": "Oneus",
-        "name": "Xion"
-    },
-    {
-        "group": "Red Velvet",
-        "name": "Irene"
-    },
-    {
-        "group": "Red Velvet",
-        "name": "Joy"
-    },
-    {
-        "group": "Red Velvet",
-        "name": "Seulgi"
-    },
-    {
-        "group": "Red Velvet",
-        "name": "Wendy"
-    },
-    {
-        "group": "Red Velvet",
-        "name": "Yeri"
+        "name": "Jiwoo Rare"
     },
     {
         "group": "SF9",
-        "name": "Chani"
-    },
-    {
-        "group": "SF9",
-        "name": "Dawon"
-    },
-    {
-        "group": "SF9",
-        "name": "Hwiyoung"
-    },
-    {
-        "group": "SF9",
-        "name": "Inseong"
-    },
-    {
-        "group": "SF9",
-        "name": "Jaeyoon"
-    },
-    {
-        "group": "SF9",
-        "name": "Rowoon"
-    },
-    {
-        "group": "SF9",
-        "name": "Taeyang"
-    },
-    {
-        "group": "SF9",
-        "name": "Youngbin"
-    },
-    {
-        "group": "SF9",
-        "name": "Zuho"
-    },
-    {
-        "group": "Taeyeon",
-        "name": "1"
-    },
-    {
-        "group": "Taeyeon",
-        "name": "2"
-    },
-    {
-        "group": "Taeyeon",
-        "name": "3"
-    },
-    {
-        "group": "Taeyeon",
-        "name": "4"
-    },
-    {
-        "group": "Taeyeon",
-        "name": "5"
-    },
-    {
-        "group": "Treasure",
-        "name": "Asahi"
-    },
-    {
-        "group": "Treasure",
-        "name": "Doyoung"
-    },
-    {
-        "group": "Treasure",
-        "name": "Haruto"
-    },
-    {
-        "group": "Treasure",
-        "name": "Hyunsuk"
-    },
-    {
-        "group": "Treasure",
-        "name": "Jaehyuk"
-    },
-    {
-        "group": "Treasure",
-        "name": "Jeongwoo"
-    },
-    {
-        "group": "Treasure",
-        "name": "Jihoon"
-    },
-    {
-        "group": "Treasure",
-        "name": "Junghwan"
-    },
-    {
-        "group": "Treasure",
-        "name": "Junkyu"
-    },
-    {
-        "group": "Treasure",
-        "name": "Mashiho"
-    },
-    {
-        "group": "Treasure",
-        "name": "Yedam"
-    },
-    {
-        "group": "Treasure",
-        "name": "Yoshi"
-    },
-    {
-        "group": "TVXQ",
-        "name": "Changmin"
-    },
-    {
-        "group": "TVXQ",
-        "name": "Jaejoong"
-    },
-    {
-        "group": "TVXQ",
-        "name": "Junsu"
-    },
-    {
-        "group": "TVXQ",
-        "name": "Yunho"
-    },
-    {
-        "group": "TXT",
-        "name": "Beomgyu"
-    },
-    {
-        "group": "TXT",
-        "name": "Huening Kai"
-    },
-    {
-        "group": "TXT",
-        "name": "Soobin"
-    },
-    {
-        "group": "TXT",
-        "name": "Taehyun"
-    },
-    {
-        "group": "TXT",
-        "name": "Yeonjun"
+        "name": "Zuho Rare"
     },
     {
         "group": "Victon",
-        "name": "Byungchan"
+        "name": "Hanse Rare"
     },
     {
         "group": "Victon",
-        "name": "Chan"
+        "name": "Sejun Rare"
     },
     {
-        "group": "Victon",
-        "name": "Hanse"
-    },
-    {
-        "group": "Victon",
-        "name": "Sejun"
-    },
-    {
-        "group": "Victon",
-        "name": "Seungsik"
-    },
-    {
-        "group": "Victon",
-        "name": "Seungwoo"
-    },
-    {
-        "group": "Victon",
-        "name": "Subin"
+        "group": "NCT",
+        "name": "Taeil Rare"
     },
     {
         "group": "Vixx",
-        "name": "Hongbin"
+        "name": "Hyuk Rare"
     },
     {
-        "group": "Vixx",
-        "name": "Hyuk"
+        "group": "Day6",
+        "name": "Junhyeok Rare"
     },
     {
-        "group": "Vixx",
-        "name": "Ken"
+        "group": "NCT",
+        "name": "Ten Rare"
     },
     {
-        "group": "Vixx",
-        "name": "Leo"
+        "group": "Day6",
+        "name": "YoungK Rare"
     },
     {
-        "group": "Vixx",
-        "name": "N"
+        "group": "Treasure",
+        "name": "Doyoung Rare"
     },
     {
-        "group": "Vixx",
-        "name": "Ravi"
+        "group": "Hwasa",
+        "name": "3 Rare"
     },
     {
-        "group": "Weekly",
-        "name": "Jaehee"
+        "group": "NCT",
+        "name": "Xiaojun Rare"
     },
     {
-        "group": "Weekly",
-        "name": "Jihan"
+        "group": "Gfriend",
+        "name": "Eunha Rare"
     },
     {
-        "group": "Weekly",
-        "name": "Jiyoon"
+        "group": "SF9",
+        "name": "Youngbin Rare"
     },
     {
-        "group": "Weekly",
-        "name": "Monday"
+        "group": "Victon",
+        "name": "Subin Rare"
     },
     {
-        "group": "Weekly",
-        "name": "Soeun"
+        "group": "Victon",
+        "name": "Chan Rare"
     },
     {
-        "group": "Weekly",
-        "name": "Soojin"
-    },
-    {
-        "group": "Weekly",
-        "name": "Zoa"
-    },
-    {
-        "group": "Yongguk",
-        "name": "1"
-    },
-    {
-        "group": "Yongguk",
-        "name": "2"
-    },
-    {
-        "group": "Yongguk",
-        "name": "3"
-    },
-    {
-        "group": "Yongguk",
-        "name": "4"
-    },
-    {
-        "group": "Yongguk",
-        "name": "5"
+        "group": "Everglow",
+        "name": "Yiren Rare"
     }
 ]
