@@ -11,6 +11,15 @@ let deckName;
 const date = new Date();
 document.getElementById('year').innerText = date.getFullYear();
 
+function navigation() {
+    var x = document.getElementById("myLinks");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+}
+
 randomizeCardType();
 
 function randomizeCardType() {
@@ -65,9 +74,6 @@ async function fetchData(button) {
 }
 
 function printCards(cards) {
-    document.body.scrollTop = 0;
-    document.documentElement.scrollTop = 0;
-
     let randomCard = Math.floor((Math.random() * cards.length));
     console.log(`${cards[randomCard].group} ${cards[randomCard].name}`);
     console.log(randomCard);

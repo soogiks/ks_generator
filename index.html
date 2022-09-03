@@ -15,11 +15,19 @@
 
 <body>
     <div id="top">
-        <nav>
-            <a href="#">Documentation</a>
-            <a href="#">Raffle</a>
-            <a href=""></a>
-        </nav>
+        <div class="hamburger-menu">
+            <input id="menu__toggle" type="checkbox" />
+            <label class="menu__btn" for="menu__toggle">
+                <span></span>
+            </label>
+
+            <ul class="menu__box">
+                <li><a class="menu__item" href="#">Home</a></li>
+                <li><a class="menu__item" href="#">Documentation</a></li>
+                <li><a class="menu__item" href="#">Raffle</a></li>
+                <li><a class="menu__item" href="#">Back to KS</a></li>
+            </ul>
+        </div>
     </div>
     <div id="wrapper">
         <div id="generateCard">
@@ -31,8 +39,8 @@
                 </div>
                 <button>Generate</button>
             </div>
-            <div class="common">
-                <p>KOREAN COMMONS <i class="fa-solid fa-caret-down"></i></p>
+            <div class="common type">
+                <p>KOREAN COMMONS</p>
                 <div class="buttons">
                     <button data-deck="korCommon">General</button>
                     <button data-deck="korDeck1">Deck 1</button>
@@ -50,8 +58,8 @@
                 </div>
             </div>
 
-            <div class="rare">
-                <p>KOREAN RARES <i class="fa-solid fa-caret-down"></i></p>
+            <div class="rare type">
+                <p>KOREAN RARES</p>
                 <div class="buttons">
                     <button data-deck="korRare">General</button>
                     <button data-deck="korRare_1">Deck 1</button>
@@ -60,30 +68,30 @@
                 </div>
             </div>
 
-            <div class="commmon">
-                <p>INTERNATIONAL <i class="fa-solid fa-caret-down"></i></p>
+            <div class="commmon type">
+                <p>INTERNATIONAL</p>
                 <div class="buttons">
                     <button data-deck="intCommon">International Commons</button>
                     <button data-deck="intRare">International Rares</button>
                 </div>
             </div>
 
-            <div class="commmon">
-                <p>ANIME/VG <i class="fa-solid fa-caret-down"></i></p>
+            <div class="commmon type">
+                <p>ANIME/VG</p>
                 <div class="buttons">
                     <button data-deck="animeVg">Anime/VG</button>
                 </div>
             </div>
 
-            <div class="limited">
-                <p>LIMITED <i class="fa-solid fa-caret-down"></i></p>
+            <div class="limited type">
+                <p>LIMITED</p>
                 <div class="buttons">
                     <button data-deck="limitedAll">Limited All</button>
                 </div>
             </div>
 
-            <div class="commmon">
-                <p>MIXED COMMONS <i class="fa-solid fa-caret-down"></i></p>
+            <div class="commmon type">
+                <p>MIXED COMMONS</p>
                 <div class="buttons">
                     <button data-deck="mixedAll">All Mixed</button>
                     <button data-deck="mixedIdols">Mixed Idols</button>
