@@ -9,6 +9,7 @@ body {
 
 #wrapper {
   padding: 6em 7em;
+  padding-bottom: 1.5em;
   background-color: whitesmoke;
 }
 
@@ -76,6 +77,14 @@ footer a {
   width: 100vw;
   height: 3em;
   background: white;
+}
+
+.type {
+  margin: 0 2em;
+}
+
+.type p {
+  margin-top: 1em;
 }
 
 #menu__toggle {
@@ -158,12 +167,4 @@ footer a {
 .menu__item:hover {
   font-weight: 600;
   color: #9f5bcf;
-}
-
-.type {
-  margin: 0 2em;
-}
-
-.type p {
-  margin-top: 2em;
 }/*# sourceMappingURL=style.css.map */
