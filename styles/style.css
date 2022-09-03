@@ -8,7 +8,7 @@ body {
 }
 
 #wrapper {
-  padding: 3em 7em;
+  padding: 6em 7em;
   background-color: whitesmoke;
 }
 
@@ -103,7 +103,7 @@ footer a {
 .menu__btn {
   position: fixed;
   top: 35px;
-  left: 40px;
+  left: 8em;
   width: 26px;
   height: 26px;
   cursor: pointer;
