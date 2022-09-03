@@ -8,66 +8,86 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KS Cards Randomizer</title>
     <link rel="shortcut icon" href="img/ks_logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/normalize.css">
 </head>
 
 <body>
-    <div id="rarity">
-        <h1></h1>
-        <button>Generate</button>
+    <div id="wrapper">
+        <div id="generateCard">
+            <div id="rarity">
+                <span id="error" hidden>Can't fetch data...</span>
+                <div>
+                    <span class="deck" hidden></span>
+                    <h1></h1>
+                </div>
+                <button>Generate</button>
+            </div>
+            <div class="common">
+                <p>KOREAN COMMONS <i class="fa-solid fa-caret-down"></i></p>
+                <div class="buttons">
+                    <button data-deck="korCommon">General</button>
+                    <button data-deck="korDeck1">Deck 1</button>
+                    <button data-deck="korDeck2">Deck 2</button>
+                    <br>
+                    <button data-deck="korBatch1">Batch 1</button>
+                    <button data-deck="korBatch11">Batch 1.1</button>
+                    <button data-deck="korBatch12">Batch 1.2</button>
+                    <button data-deck="korBatch2">Batch 2</button>
+                    <button data-deck="korBatch3">Batch 3</button>
+                    <button data-deck="korBatch4">Batch 4</button>
+                    <button data-deck="korBatch5">Batch 5</button>
+                    <button data-deck="korBatch6">Batch 6</button>
+                    <button data-deck="korBatch7">Batch 7</button>
+                </div>
+            </div>
+
+            <div class="rare">
+                <p>KOREAN RARES <i class="fa-solid fa-caret-down"></i></p>
+                <div class="buttons">
+                    <button data-deck="korRare">General</button>
+                    <button data-deck="korRare_1">Deck 1</button>
+                    <button data-deck="korRare_2">Deck 2</button>
+                    <button data-deck="korRare_3">Deck 3</button>
+                </div>
+            </div>
+
+            <div class="commmon">
+                <p>INTERNATIONAL <i class="fa-solid fa-caret-down"></i></p>
+                <div class="buttons">
+                    <button data-deck="intCommon">International Commons</button>
+                    <button data-deck="intRare">International Rares</button>
+                </div>
+            </div>
+
+            <div class="commmon">
+                <p>ANIME/VG <i class="fa-solid fa-caret-down"></i></p>
+                <div class="buttons">
+                    <button data-deck="animeVg">Anime/VG</button>
+                </div>
+            </div>
+
+            <div class="limited">
+                <p>LIMITED <i class="fa-solid fa-caret-down"></i></p>
+                <div class="buttons">
+                    <button data-deck="limitedAll">Limited All</button>
+                </div>
+            </div>
+
+            <div class="commmon">
+                <p>MIXED COMMONS <i class="fa-solid fa-caret-down"></i></p>
+                <div class="buttons">
+                    <button data-deck="mixedAll">All Mixed</button>
+                    <button data-deck="mixedIdols">Mixed Idols</button>
+                </div>
+            </div>
+        </div>
     </div>
 
-    <div id="generateCard">
-        <span id="error" hidden>Can't fetch data...</span>
-        <div class="common">
-            <p>KOREAN COMMONS</p>
-            <button data-deck="korCommon">General</button>
-            <button data-deck="korDeck1">Deck 1</button>
-            <button data-deck="korDeck2">Deck 2</button>
-            <button data-deck="korBatch1">Batch 1</button>
-            <button data-deck="korBatch11">Batch 1.1</button>
-            <button data-deck="korBatch12">Batch 1.2</button>
-            <button data-deck="korBatch2">Batch 2</button>
-            <button data-deck="korBatch3">Batch 3</button>
-            <button data-deck="korBatch4">Batch 4</button>
-            <button data-deck="korBatch5">Batch 5</button>
-            <button data-deck="korBatch6">Batch 6</button>
-            <button data-deck="korBatch7">Batch 7</button>
-        </div>
-
-        <div class="rare">
-            <p>KOREAN RARES</p>
-            <button data-deck="korRare">General</button>
-            <button data-deck="korRare_1">Deck 1</button>
-            <button data-deck="korRare_2">Deck 2</button>
-            <button data-deck="korRare_3">Deck 3</button>
-        </div>
-
-        <div class="commmon">
-            <p>INTERNATIONAL</p>
-            <button data-deck="intCommon">International Commons</button>
-            <button data-deck="intRare">International Rares</button>
-        </div>
-
-        <div class="commmon">
-            <p>ANIME/VG</p>
-            <button data-deck="animeVg">Anime/VG</button>
-        </div>
-
-        <div class="limited">
-            <p>LIMITED</p>
-            <button data-deck="limitedAll">Limited All</button>
-        </div>
-
-        <div class="commmon">
-            <p>MIXED COMMONS</p>
-            <button data-deck="mixedAll">All Mixed</button>
-            <button data-deck="mixedIdols">Mixed Idols</button>
-        </div>
-    </div>
-
-    <div id="selectedCard">
-        <h1></h1>
-    </div>
+    <footer>© Kpopsource <span id="year"></span>
+        <p>Issues? <a href="mailto:soogi@kpoptalk.com">soogi@kpoptalk.com</a></p>
+    </footer>
 </body>
 
 </html>
