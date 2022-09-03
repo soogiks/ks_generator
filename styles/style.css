@@ -4,7 +4,7 @@
 }
 
 #wrapper {
-  padding: 3% 6%;
+  padding: 70px 100px;
   background-color: whitesmoke;
 }
 
@@ -15,7 +15,7 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  padding: 3%;
+  padding: 40px;
   border-radius: 15px;
 }
 
@@ -51,7 +51,7 @@ button:focus-visible {
 
 footer {
   background-color: rgb(221, 221, 221);
-  padding: 0.75%;
+  padding: 10px;
   text-align: center;
 }
 
