@@ -8,28 +8,43 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KS Cards Randomizer</title>
     <link rel="shortcut icon" href="img/ks_logo.webp" type="image/x-icon">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
     <link rel="stylesheet" href="styles/style.css">
     <link rel="stylesheet" href="styles/normalize.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 
 <body>
-    <div id="top">
-        <div class="hamburger-menu">
-            <input id="menu__toggle" type="checkbox" />
-            <label class="menu__btn" for="menu__toggle">
-                <span></span>
-            </label>
-
-            <ul class="menu__box">
-                <li><a class="menu__item" href="#">Home</a></li>
-                <li><a class="menu__item" href="docs.html">Documentation</a></li>
-                <li><a class="menu__item" href="raffle.html">Raffle</a></li>
-                <li><a class="menu__item" href="https://kpopsource.com">Back to KS</a></li>
-            </ul>
+    <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">
+                <img src="img/ks_logo.webp" alt="" width="60" height="60">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Documentation</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Raffle</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://kpopsource.com">Back to KS</a>
+                    </li>
+                </ul>
+            </div>
         </div>
-    </div>
-    <div id="wrapper">
+    </nav>
+    <div class="container-md">
         <div id="generateCard">
             <div id="rarity">
                 <span id="error" hidden>Can't fetch data...</span>
@@ -37,64 +52,64 @@
                     <span class="deck" hidden></span>
                     <h1></h1>
                 </div>
-                <button>Generate</button>
+                <button class="btn">Generate</button>
             </div>
             <div class="common type">
                 <p>KOREAN COMMONS</p>
                 <div class="buttons">
-                    <button data-deck="korCommon">General</button>
-                    <button data-deck="korDeck1">Deck 1</button>
-                    <button data-deck="korDeck2">Deck 2</button>
+                    <button class="btn" data-deck="korCommon">General</button>
+                    <button class="btn" data-deck="korDeck1">Deck 1</button>
+                    <button class="btn" data-deck="korDeck2">Deck 2</button>
                     <br>
-                    <button data-deck="korBatch1">Batch 1</button>
-                    <button data-deck="korBatch11">Batch 1.1</button>
-                    <button data-deck="korBatch12">Batch 1.2</button>
-                    <button data-deck="korBatch2">Batch 2</button>
-                    <button data-deck="korBatch3">Batch 3</button>
-                    <button data-deck="korBatch4">Batch 4</button>
-                    <button data-deck="korBatch5">Batch 5</button>
-                    <button data-deck="korBatch6">Batch 6</button>
-                    <button data-deck="korBatch7">Batch 7</button>
+                    <button class="btn" data-deck="korBatch1">Batch 1</button>
+                    <button class="btn" data-deck="korBatch11">Batch 1.1</button>
+                    <button class="btn" data-deck="korBatch12">Batch 1.2</button>
+                    <button class="btn" data-deck="korBatch2">Batch 2</button>
+                    <button class="btn" data-deck="korBatch3">Batch 3</button>
+                    <button class="btn" data-deck="korBatch4">Batch 4</button>
+                    <button class="btn" data-deck="korBatch5">Batch 5</button>
+                    <button class="btn" data-deck="korBatch6">Batch 6</button>
+                    <button class="btn" data-deck="korBatch7">Batch 7</button>
                 </div>
             </div>
 
             <div class="rare type">
                 <p>KOREAN RARES</p>
                 <div class="buttons">
-                    <button data-deck="korRare">General</button>
-                    <button data-deck="korRare_1">Deck 1</button>
-                    <button data-deck="korRare_2">Deck 2</button>
-                    <button data-deck="korRare_3">Deck 3</button>
+                    <button class="btn" data-deck="korRare">General</button>
+                    <button class="btn" data-deck="korRare_1">Deck 1</button>
+                    <button class="btn" data-deck="korRare_2">Deck 2</button>
+                    <button class="btn" data-deck="korRare_3">Deck 3</button>
                 </div>
             </div>
 
             <div class="commmon type">
                 <p>INTERNATIONAL</p>
                 <div class="buttons">
-                    <button data-deck="intCommon">International Commons</button>
-                    <button data-deck="intRare">International Rares</button>
+                    <button class="btn" data-deck="intCommon">International Commons</button>
+                    <button class="btn" data-deck="intRare">International Rares</button>
                 </div>
             </div>
 
             <div class="commmon type">
                 <p>ANIME/VG</p>
                 <div class="buttons">
-                    <button data-deck="animeVg">Anime/VG</button>
+                    <button class="btn" data-deck="animeVg">Anime/VG</button>
                 </div>
             </div>
 
             <div class="limited type">
                 <p>LIMITED</p>
                 <div class="buttons">
-                    <button data-deck="limitedAll">Limited All</button>
+                    <button class="btn" data-deck="limitedAll">Limited All</button>
                 </div>
             </div>
 
             <div class="commmon type">
                 <p>MIXED COMMONS</p>
                 <div class="buttons">
-                    <button data-deck="mixedAll">All Mixed</button>
-                    <button data-deck="mixedIdols">Mixed Idols</button>
+                    <button class="btn" data-deck="mixedAll">All Mixed</button>
+                    <button class="btn" data-deck="mixedIdols">Mixed Idols</button>
                 </div>
             </div>
         </div>
