@@ -81,10 +81,16 @@ function printCards(cards) {
         console.log(deckName);
         document.getElementById('error').hidden = true;
         document.getElementById('cardName').hidden = false;
-        rarityValue.innerText = `${cards[randomCard].group} ${cards[randomCard].name}`;
         document.getElementById('rarity').style.background = "#04b486";
         document.querySelector('.deck').hidden = false;
         document.querySelector('.deck').innerText = deckName;
+        if (!cards[randomCard].group) {
+            rarityValue.innerText = `${cards[randomCard].name}`;
+        } else if (!cards[randomCard].name) {
+            rarityValue.innerText = `${cards[randomCard].group}`;
+        } else {
+            rarityValue.innerText = `${cards[randomCard].group} ${cards[randomCard].name}`;
+        }
     } else {
         rarityValue.hidden = true;
         document.querySelector('.deck').hidden = true;
