@@ -1,10 +1,9 @@
 "use strict";
-const rarityValue = document.querySelector('#rarity h1');
+const rarityValue = document.querySelector('#cardName');
 const rarityGenerator = document.querySelector('#rarity button');
 const generatedCard = document.querySelector('#generatedCard');
 const buttons = document.querySelectorAll('.buttons button');
 const cardOutput = document.querySelector('#selectedCard h1');
-const limitedSpecifyButton = document.querySelector('.limitedSpecify');
 let cardType;
 let dataset;
 let deckName;
@@ -75,12 +74,21 @@ async function fetchData(button) {
 }
 
 function printCards(cards) {
-    let randomCard = Math.floor((Math.random() * cards.length));
-    console.log(`${cards[randomCard].group} ${cards[randomCard].name}`);
-    console.log(randomCard);
-    console.log(deckName);
-    rarityValue.innerText = `${cards[randomCard].group} ${cards[randomCard].name}`;
-    document.getElementById('rarity').style.background = "#04b486";
-    document.querySelector('.deck').hidden = false;
-    document.querySelector('.deck').innerText = deckName;
+    if (navigator.onLine) {
+        let randomCard = Math.floor((Math.random() * cards.length));
+        console.log(`${cards[randomCard].group} ${cards[randomCard].name}`);
+        console.log(randomCard);
+        console.log(deckName);
+        document.getElementById('error').hidden = true;
+        document.getElementById('cardName').hidden = false;
+        rarityValue.innerText = `${cards[randomCard].group} ${cards[randomCard].name}`;
+        document.getElementById('rarity').style.background = "#04b486";
+        document.querySelector('.deck').hidden = false;
+        document.querySelector('.deck').innerText = deckName;
+    } else {
+        rarityValue.hidden = true;
+        document.querySelector('.deck').hidden = true;
+        document.getElementById('error').hidden = false;
+        document.getElementById('rarity').style.background = "#e03030";
+    }
 }
