@@ -4,6 +4,7 @@ const rarityGenerator = document.querySelector('#rarity button');
 const generatedCard = document.querySelector('#generatedCard');
 const buttons = document.querySelectorAll('.buttons button');
 const cardOutput = document.querySelector('#selectedCard h1');
+const limitedSpecifyButton = document.querySelector('.limitedSpecify');
 let cardType;
 let dataset;
 let deckName;
