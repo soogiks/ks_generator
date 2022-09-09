@@ -96,6 +96,11 @@ footer a {
   font-weight: 600;
 }
 
+.active {
+  font-weight: 600 !important;
+  color: #9f5bcf !important;
+}
+
 @media (max-width: 576px) {
   .navbar > .container-fluid {
     margin: 0 1em;
