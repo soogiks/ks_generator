@@ -76,9 +76,9 @@ async function fetchData(button) {
 function printCards(cards) {
     if (navigator.onLine) {
         let randomCard = Math.floor((Math.random() * cards.length));
-        console.log(`${cards[randomCard].group} ${cards[randomCard].name}`);
-        console.log(randomCard);
         console.log(deckName);
+        console.log(`${cards[randomCard].group} ${cards[randomCard].name}`);
+        console.log("========");
         document.getElementById('error').hidden = true;
         document.getElementById('cardName').hidden = false;
         document.getElementById('rarity').style.background = "#04b486";
