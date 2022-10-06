@@ -31,7 +31,7 @@ function randomizeCardType() {
     if (rarity === 1) {
         cardType = "Limited";
         document.getElementById('rarity').style.background = "linear-gradient(to right,rgb(222, 168, 248) 10%,rgb(168, 222, 258) 30%,rgb(189, 250, 205) 42%,rgb(243, 250, 189) 58%,rgb(250, 227, 189) 70%,rgb(248, 172, 171) 95%,rgb(254, 170, 212) 100%)";
-    } else if (rarity > 1 && rarity < 21) {
+    } else if (rarity > 1 && rarity <= 21) {
         cardType = "Rare";
         document.getElementById('rarity').style.background = "linear-gradient(to right, #BF953F, #FCF6BA)";
     } else {
