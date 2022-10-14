@@ -1,0 +1,919 @@
+[
+    {
+        "group": "Marvel Superheroes",
+        "name": "Ant-Man",
+        "real": "Hank Pym"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Black Panther",
+        "real": "T'Challa"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Black Widow",
+        "real": "Natasha Romanoff"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Blade",
+        "real": "Eric Cross Brookes"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Captain America",
+        "real": "Steve Rogers"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Captain Marvel",
+        "real": "Carol Danvers"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Cloack",
+        "real": "Tyrone \"Ty\" Johnson"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Dagger",
+        "real": "Tandy Brown"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Daredevil",
+        "real": "Matthew Murdock"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Doctor Strange",
+        "real": "Stephen Strange"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Drax",
+        "real": "Arthur Douglas"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Falcon",
+        "real": "Sam Wilson"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Gamora",
+        "real": "Gamora"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Groot",
+        "real": "Groot"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Hawkeye",
+        "real": "Clint Barton"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Hulk",
+        "real": "Robert Bruce Banner"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Human Torch",
+        "real": "Johnathan \"Johnny\" Storm"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Invisible Woman",
+        "real": "Susan \"Sue\" Storm-Richards"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Iron Man",
+        "real": "Tony Stark"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Mantis",
+        "real": "Mantis"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Mister Fantastic",
+        "real": "Reed Richards"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Rocket Raccoon",
+        "real": "Rocket"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Shang-Chi",
+        "real": "Xu Shang-Chi"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Spiderman",
+        "real": "Peter Parker"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Star Lord",
+        "real": "Peter Jason Quill"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Thing",
+        "real": "Ben Grimm"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Thor",
+        "real": "Thor Odinson"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Valkyrie",
+        "real": "Brunnhilde"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Vision",
+        "real": "Vision"
+    },
+    {
+        "group": "Marvel Superheroes",
+        "name": "Wasp",
+        "real": "Janet Van Dyne"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Carnage",
+        "real": "Cletus Kasady"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Doctor Doom",
+        "real": "Victor Von Doom"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Doctor Octopus",
+        "real": "Otto Octavius"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Dormammu",
+        "real": "Dormammu"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Electro",
+        "real": "Maxwell Dillon"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Galactus",
+        "real": "Galan"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Green Goblin",
+        "real": "Norman Osborn"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Hela",
+        "real": "Hela Odinsdottir"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Kingpin",
+        "real": "Wilson Fisk"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Knull",
+        "real": "Knull"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Kraven",
+        "real": "Sergei Nikolaevich Kravinoff"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Lizard",
+        "real": "Curtis Conners"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Loki",
+        "real": "Loki Laufeyson"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Mandarin",
+        "real": "Zhang Tong"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Mysterio",
+        "real": "Quentin Beck"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Nebula",
+        "real": "Nebula"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Red Skull",
+        "real": "Johann Shmidt"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Rhino",
+        "real": "Alexei Sytsevich"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Ronan",
+        "real": "Ronan"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Sandman",
+        "real": "Flint Marko"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Scorpion",
+        "real": "Mac Gargan"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Thanos",
+        "real": "Thanos"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Ultron",
+        "real": "Ultron Pym"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Venom",
+        "real": "Eddie Brock"
+    },
+    {
+        "group": "Marvel Villains",
+        "name": "Vulture",
+        "real": "Adrian Toomes"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Aquaman",
+        "real": "Arthur Curry"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Atom",
+        "real": "Ray Palmer"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Azrael",
+        "real": "Jean-Paul Vallery Jr"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Batgirl",
+        "real": "Barbara Gordon"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Batman",
+        "real": "Bruce Wayne"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Black Canary",
+        "real": "Dinah Laurel Lance"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Black Lightning",
+        "real": "Jefferson Pierce"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Catwoman",
+        "real": "Selina Kyle"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Constantine",
+        "real": "John Constantine"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Cyborg",
+        "real": "Victor Stone"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Doctor Fate",
+        "real": "Kent Nelson"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Dreamer",
+        "real": "Nia Nal"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Firestorm",
+        "real": "Ronny Raymond & Martin Stein"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Flash",
+        "real": "Barry Allen"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Green Arrow",
+        "real": "Oliver Queen"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Green Lantern",
+        "real": "Hal Jordan"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Hawkgirl",
+        "real": "Kendra Saunders"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Hawkman",
+        "real": "Carter Hall"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Katana",
+        "real": "Tatsu Yamashiro"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Martian Manhunter",
+        "real": "J'Onn J'Onzz"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Mon-El",
+        "real": "Lar Grand"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Nightwing",
+        "real": "Dick Grayson"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Robin",
+        "real": "Jason Todd"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Sandman",
+        "real": "Morpheus/Dream Of The Endless"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Saturn Girl",
+        "real": "Imra Ardeen"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Shazam",
+        "real": "William Joseph Batson"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Star Girl",
+        "real": "Courtney Elizabeth Whitmore"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Supergirl",
+        "real": "Kara Zor-El/Linda Danvers"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Superman",
+        "real": "Kal-El/Clark Kent"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Wonder Woman",
+        "real": "Diana Prince"
+    },
+    {
+        "group": "DC Heroes",
+        "name": "Zatanna",
+        "real": "Zatanna Zatara"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Anti-Monitor",
+        "real": "Anti-Monitor"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Bane",
+        "real": "Eduardo Dorrance"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Bizarro",
+        "real": "Bizarro"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Black Mask",
+        "real": "Roman Sionis"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Brainiac",
+        "real": "Vril Dox"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Calendar Man",
+        "real": "Julian Day"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Captain Cold",
+        "real": "Leonard Snart"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Clayface",
+        "real": "Basil Karlo"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Darkseid",
+        "real": "Uxas"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Deadshot",
+        "real": "Floyd Lawton"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Deathstroke",
+        "real": "Slade Wilson"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Doomsday",
+        "real": "Doomsday"
+    },
+    {
+        "group": "DC Villains",
+        "name": "General Zod",
+        "real": "Dru-Zod"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Harley Quinn",
+        "real": "Harleen Quinzel"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Hush",
+        "real": "Thomas Elliot"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Joker",
+        "real": "Joker"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Killer Croc",
+        "real": "Waylon Jones"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Lex Luthor",
+        "real": "Alexander Luthor"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Metallo",
+        "real": "John Corben"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Mr. Freeze",
+        "real": "Victor Fries"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Mr. Mxyzptlk",
+        "real": "Mister Mxyzptlk"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Penguin",
+        "real": "Oswald Chesterfield Cobblepot"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Poison Ivy",
+        "real": "Pamela Lillian Isley"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Ra'S Al Ghul",
+        "real": "Duan Al Ghul"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Reverse Flash",
+        "real": "Eobard Thawne"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Riddler",
+        "real": "Edward Nigma"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Scarecrow",
+        "real": "Jonathan Crane"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Sinestro",
+        "real": "Thaal Sinestro"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Solomon Grundy",
+        "real": "Cyrus Gold"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Two-Face",
+        "real": "Harvey Dent"
+    },
+    {
+        "group": "DC Villains",
+        "name": "Zsasz",
+        "real": "Victor Zsasz"
+    },
+    {
+        "group": "X-Men Heroes",
+        "name": "Angel"
+    },
+    {
+        "group": "X-Men Heroes",
+        "name": "Banshee"
+    },
+    {
+        "group": "X-Men Heroes",
+        "name": "Beast"
+    },
+    {
+        "group": "X-Men Heroes",
+        "name": "Colossus"
+    },
+    {
+        "group": "X-Men Heroes",
+        "name": "Cyclops"
+    },
+    {
+        "group": "X-Men Heroes",
+        "name": "Deadpool"
+    },
+    {
+        "group": "X-Men Heroes",
+        "name": "Gambit"
+    },
+    {
+        "group": "X-Men Heroes",
+        "name": "Havok"
+    },
+    {
+        "group": "X-Men Heroes",
+        "name": "Iceman"
+    },
+    {
+        "group": "X-Men Heroes",
+        "name": "Jean Grey / Phoenix"
+    },
+    {
+        "group": "X-Men Heroes",
+        "name": "Kitty Pride"
+    },
+    {
+        "group": "X-Men Heroes",
+        "name": "Nightcrawler"
+    },
+    {
+        "group": "X-Men Heroes",
+        "name": "Professor X"
+    },
+    {
+        "group": "X-Men Heroes",
+        "name": "Quicksilver"
+    },
+    {
+        "group": "X-Men Heroes",
+        "name": "Scarlett Witch"
+    },
+    {
+        "group": "X-Men Heroes",
+        "name": "Storm"
+    },
+    {
+        "group": "X-Men Heroes",
+        "name": "Wolverine"
+    },
+    {
+        "group": "X-Men Villains",
+        "name": "Apocalypse"
+    },
+    {
+        "group": "X-Men Villains",
+        "name": "Cassandra Nova"
+    },
+    {
+        "group": "X-Men Villains",
+        "name": "Emma Frost"
+    },
+    {
+        "group": "X-Men Villains",
+        "name": "Juggernaut"
+    },
+    {
+        "group": "X-Men Villains",
+        "name": "Magneto"
+    },
+    {
+        "group": "X-Men Villains",
+        "name": "Mister Sinister"
+    },
+    {
+        "group": "X-Men Villains",
+        "name": "Mojo"
+    },
+    {
+        "group": "X-Men Villains",
+        "name": "Mystique"
+    },
+    {
+        "group": "X-Men Villains",
+        "name": "Onslaught"
+    },
+    {
+        "group": "X-Men Villains",
+        "name": "Pyro"
+    },
+    {
+        "group": "X-Men Villains",
+        "name": "Sabre Tooth"
+    },
+    {
+        "group": "X-Men Villains",
+        "name": "Shadow King"
+    },
+    {
+        "group": "X-Men Villains",
+        "name": "Silver Samurai"
+    },
+    {
+        "group": "X-Men Villains",
+        "name": "Toad"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Aqualad"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Arsenal"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Beast Boy"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Bumblebee"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Bunker"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Cave Boy"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Cyborg"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Djinn"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Dove"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Hawk"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Herald"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Kid Flash"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Miss Martian"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Omen"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Power Girl"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Ravager"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Raven"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Red Arrow"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Red Robin"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Solstice"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Starfire"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Steel"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Superboy"
+    },
+    {
+        "group": "Young Justice / Teen Titans",
+        "name": "Wonder Girl"
+    },
+    {
+        "group": "Young Avengers",
+        "name": "Hawkeye "
+    },
+    {
+        "group": "Young Avengers",
+        "name": "Hulkling"
+    },
+    {
+        "group": "Young Avengers",
+        "name": "Iron Lad"
+    },
+    {
+        "group": "Young Avengers",
+        "name": "Kid Loki"
+    },
+    {
+        "group": "Young Avengers",
+        "name": "Marvel Boy"
+    },
+    {
+        "group": "Young Avengers",
+        "name": "Miss America"
+    },
+    {
+        "group": "Young Avengers",
+        "name": "Ms. Marvel"
+    },
+    {
+        "group": "Young Avengers",
+        "name": "She-Hulk"
+    },
+    {
+        "group": "Young Avengers",
+        "name": "Speed"
+    },
+    {
+        "group": "Young Avengers",
+        "name": "Stature"
+    },
+    {
+        "group": "Young Avengers",
+        "name": "Vision"
+    },
+    {
+        "group": "Young Avengers",
+        "name": "Wiccan"
+    },
+    {
+        "group": "Watchmen",
+        "name": "Comedian"
+    },
+    {
+        "group": "Watchmen",
+        "name": "Doctor Manhattan"
+    },
+    {
+        "group": "Watchmen",
+        "name": "Night Owl Ii"
+    },
+    {
+        "group": "Watchmen",
+        "name": "Ozymandias"
+    },
+    {
+        "group": "Watchmen",
+        "name": "Rorschach"
+    },
+    {
+        "group": "Watchmen",
+        "name": "Silk Spectre Ii"
+    },
+    {
+        "group": "Eternals",
+        "name": "Ajak"
+    },
+    {
+        "group": "Eternals",
+        "name": "Druig"
+    },
+    {
+        "group": "Eternals",
+        "name": "Gilgamesh"
+    },
+    {
+        "group": "Eternals",
+        "name": "Ikaris"
+    },
+    {
+        "group": "Eternals",
+        "name": "Kingo"
+    },
+    {
+        "group": "Eternals",
+        "name": "Makkari"
+    },
+    {
+        "group": "Eternals",
+        "name": "Phastos"
+    },
+    {
+        "group": "Eternals",
+        "name": "Sersi"
+    },
+    {
+        "group": "Eternals",
+        "name": "Sprite"
+    },
+    {
+        "group": "Eternals",
+        "name": "Thena"
+    }
+]
