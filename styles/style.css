@@ -117,4 +117,33 @@ footer a {
     text-align: center;
     padding-bottom: 1em;
   }
+}
+.dis {
+  display: inline-block;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+}
+
+.title > i {
+  padding-right: 1rem;
+  color: rgba(17, 24, 39, 0.4901960784);
+}
+
+.type > a {
+  text-decoration: none;
+  color: #111827;
+}
+
+.type > a:hover > i {
+  text-decoration: none;
+  color: #111827;
+  transition: 0.4s ease;
+}
+
+.type > a:hover > p {
+  text-decoration: none;
+  color: #111827;
 }/*# sourceMappingURL=style.css.map */
