@@ -430,5 +430,381 @@
     {
         "group": "Halloween",
         "name": "IZone Hitomi"
+    },
+    {
+        "group": "Halloween",
+        "name": "AB6IX Youngmin"
+    },
+    {
+        "group": "Halloween",
+        "name": "AB6IX Woong"
+    },
+    {
+        "group": "Halloween",
+        "name": "AB6IX Donghyun"
+    },
+    {
+        "group": "Halloween",
+        "name": "AB6IX Woojin"
+    },
+    {
+        "group": "Halloween",
+        "name": "AB6IX Daehwi"
+    },
+    {
+        "group": "Halloween",
+        "name": "Ailee"
+    },
+    {
+        "group": "Halloween",
+        "name": "Alexa"
+    },
+    {
+        "group": "Halloween",
+        "name": "Enhypen Heesung"
+    },
+    {
+        "group": "Halloween",
+        "name": "Enhypen Jay"
+    },
+    {
+        "group": "Halloween",
+        "name": "Enhypen Jake"
+    },
+    {
+        "group": "Halloween",
+        "name": "Enhypen Sunghoon"
+    },
+    {
+        "group": "Halloween",
+        "name": "Enhypen Sunoo"
+    },
+    {
+        "group": "Halloween",
+        "name": "Enhypen Jungwon"
+    },
+    {
+        "group": "Halloween",
+        "name": "Enhypen Ni-Ki"
+    },
+    {
+        "group": "Halloween",
+        "name": "EXID Solji"
+    },
+    {
+        "group": "Halloween",
+        "name": "EXID Elly"
+    },
+    {
+        "group": "Halloween",
+        "name": "EXID Hani"
+    },
+    {
+        "group": "Halloween",
+        "name": "EXID Hyerin"
+    },
+    {
+        "group": "Halloween",
+        "name": "EXID Junghwa"
+    },
+    {
+        "group": "Halloween",
+        "name": "EXO CBX Xiumin"
+    },
+    {
+        "group": "Halloween",
+        "name": "EXO CBX Baekhyun "
+    },
+    {
+        "group": "Halloween",
+        "name": "EXO CBX Chen"
+    },
+    {
+        "group": "Halloween",
+        "name": "GOT7 Mark"
+    },
+    {
+        "group": "Halloween",
+        "name": "GOT7 JB"
+    },
+    {
+        "group": "Halloween",
+        "name": "GOT7 Jackson"
+    },
+    {
+        "group": "Halloween",
+        "name": "GOT7 Jinyoung"
+    },
+    {
+        "group": "Halloween",
+        "name": "GOT7 Youngjae"
+    },
+    {
+        "group": "Halloween",
+        "name": "GOT7 Bambam"
+    },
+    {
+        "group": "Halloween",
+        "name": "GOT7 Yugyeom"
+    },
+    {
+        "group": "Halloween",
+        "name": "I&S Irene"
+    },
+    {
+        "group": "Halloween",
+        "name": "I&S Seulgi"
+    },
+    {
+        "group": "Halloween",
+        "name": "J-Hope"
+    },
+    {
+        "group": "Halloween",
+        "name": "Kihyun"
+    },
+    {
+        "group": "Halloween",
+        "name": "Miyeon"
+    },
+    {
+        "group": "Halloween",
+        "name": "Moonbyul"
+    },
+    {
+        "group": "Halloween",
+        "name": "NCT 127 Taeil"
+    },
+    {
+        "group": "Halloween",
+        "name": "NCT 127 Johnny"
+    },
+    {
+        "group": "Halloween",
+        "name": "NCT 127 Taeyong"
+    },
+    {
+        "group": "Halloween",
+        "name": "NCT 127 Yuta"
+    },
+    {
+        "group": "Halloween",
+        "name": "NCT 127 Doyoung"
+    },
+    {
+        "group": "Halloween",
+        "name": "NCT 127 Jaehyun"
+    },
+    {
+        "group": "Halloween",
+        "name": "NCT 127 Winwin"
+    },
+    {
+        "group": "Halloween",
+        "name": "NCT 127 Jungwoo"
+    },
+    {
+        "group": "Halloween",
+        "name": "NCT 127 Mark"
+    },
+    {
+        "group": "Halloween",
+        "name": "NCT 127 Haechan"
+    },
+    {
+        "group": "Halloween",
+        "name": "Oneus Ravn"
+    },
+    {
+        "group": "Halloween",
+        "name": "Oneus Seoho"
+    },
+    {
+        "group": "Halloween",
+        "name": "Oneus Leedo"
+    },
+    {
+        "group": "Halloween",
+        "name": "Oneus Keonhee"
+    },
+    {
+        "group": "Halloween",
+        "name": "Oneus Hwanwoong"
+    },
+    {
+        "group": "Halloween",
+        "name": "Oneus Xion"
+    },
+    {
+        "group": "Halloween",
+        "name": "Onew"
+    },
+    {
+        "group": "Halloween",
+        "name": "Orange Caramel Raina"
+    },
+    {
+        "group": "Halloween",
+        "name": "Orange Caramel Nana"
+    },
+    {
+        "group": "Halloween",
+        "name": "Orange Caramel Lizzy"
+    },
+    {
+        "group": "Halloween",
+        "name": "SVT BSS Hoshi"
+    },
+    {
+        "group": "Halloween",
+        "name": "SVT BSS DK"
+    },
+    {
+        "group": "Halloween",
+        "name": "SVT BSS Seungkwan"
+    },
+    {
+        "group": "Halloween",
+        "name": "Somi"
+    },
+    {
+        "group": "Halloween",
+        "name": "Suzy"
+    },
+    {
+        "group": "Halloween",
+        "name": "Treasure Hyunsuk"
+    },
+    {
+        "group": "Halloween",
+        "name": "Treasure Jihoon"
+    },
+    {
+        "group": "Halloween",
+        "name": "Treasure Yoshi"
+    },
+    {
+        "group": "Halloween",
+        "name": "Treasure Junkyu"
+    },
+    {
+        "group": "Halloween",
+        "name": "Treasure Mashiho"
+    },
+    {
+        "group": "Halloween",
+        "name": "Treasure Jaehyuk"
+    },
+    {
+        "group": "Halloween",
+        "name": "Treasure Asahi"
+    },
+    {
+        "group": "Halloween",
+        "name": "Treasure Yedam"
+    },
+    {
+        "group": "Halloween",
+        "name": "Treasure Doyoung"
+    },
+    {
+        "group": "Halloween",
+        "name": "Treasure Haruto"
+    },
+    {
+        "group": "Halloween",
+        "name": "Treasure Jeongwoo"
+    },
+    {
+        "group": "Halloween",
+        "name": "Treasure Junghwan"
+    },
+    {
+        "group": "Halloween",
+        "name": "Weeekly Soojin"
+    },
+    {
+        "group": "Halloween",
+        "name": "Weeekly Jiyoon"
+    },
+    {
+        "group": "Halloween",
+        "name": "Weeekly Monday"
+    },
+    {
+        "group": "Halloween",
+        "name": "Weeekly Soeun"
+    },
+    {
+        "group": "Halloween",
+        "name": "Weeekly Jaehee"
+    },
+    {
+        "group": "Halloween",
+        "name": "Weeekly Jihan"
+    },
+    {
+        "group": "Halloween",
+        "name": "Weeekly Zoa"
+    },
+    {
+        "group": "Halloween",
+        "name": "WJSN Seola"
+    },
+    {
+        "group": "Halloween",
+        "name": "WJSN Xuan Yi"
+    },
+    {
+        "group": "Halloween",
+        "name": "WJSN Bona"
+    },
+    {
+        "group": "Halloween",
+        "name": "WJSN Exy"
+    },
+    {
+        "group": "Halloween",
+        "name": "WJSN Soobin"
+    },
+    {
+        "group": "Halloween",
+        "name": "WJSN Luda"
+    },
+    {
+        "group": "Halloween",
+        "name": "WJSN Dawon"
+    },
+    {
+        "group": "Halloween",
+        "name": "WJSN Eunseo"
+    },
+    {
+        "group": "Halloween",
+        "name": "WJSN Cheng Xiao"
+    },
+    {
+        "group": "Halloween",
+        "name": "WJSN Mei Qi"
+    },
+    {
+        "group": "Halloween",
+        "name": "WJSN Yeoreum"
+    },
+    {
+        "group": "Halloween",
+        "name": "WJSN Dayoung"
+    },
+    {
+        "group": "Halloween",
+        "name": "WJSN Yeonjung"
+    },
+    {
+        "group": "Halloween",
+        "name": "Yena"
+    },
+    {
+        "group": "Halloween",
+        "name": "Eunbi"
     }
 ]
